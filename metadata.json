@@ -1,0 +1,8 @@
+{
+  "name": "Math Solver Vision",
+  "description": "An AI-powered application that solves mathematical problems from an uploaded image, providing step-by-step solutions using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
